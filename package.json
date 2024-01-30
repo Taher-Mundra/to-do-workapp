@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "An app to store your tasks and how many of them are complete",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
